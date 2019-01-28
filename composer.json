@@ -1,5 +1,5 @@
 {
-  "name": "siosipit/scheduler",
+  "name": "siosipit/cl-scheduler",
   "description": "A Laravel package to manage your cron jobs through a beautiful dashboard",
   "keywords": [
     "laravel",
